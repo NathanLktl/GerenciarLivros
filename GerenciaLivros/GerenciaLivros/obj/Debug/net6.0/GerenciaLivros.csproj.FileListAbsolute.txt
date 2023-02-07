@@ -1,0 +1,15 @@
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\bin\Debug\net6.0\GerenciaLivros.exe
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\bin\Debug\net6.0\GerenciaLivros.deps.json
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\bin\Debug\net6.0\GerenciaLivros.runtimeconfig.json
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\bin\Debug\net6.0\GerenciaLivros.dll
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\bin\Debug\net6.0\GerenciaLivros.pdb
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\obj\Debug\net6.0\GerenciaLivros.csproj.AssemblyReference.cache
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\obj\Debug\net6.0\GerenciaLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\obj\Debug\net6.0\GerenciaLivros.AssemblyInfoInputs.cache
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\obj\Debug\net6.0\GerenciaLivros.AssemblyInfo.cs
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\obj\Debug\net6.0\GerenciaLivros.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\obj\Debug\net6.0\GerenciaLivros.dll
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\obj\Debug\net6.0\refint\GerenciaLivros.dll
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\obj\Debug\net6.0\GerenciaLivros.pdb
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\obj\Debug\net6.0\GerenciaLivros.genruntimeconfig.cache
+C:\Users\Usuário\Documents\GerenciaLivros\GerenciaLivros\obj\Debug\net6.0\ref\GerenciaLivros.dll
